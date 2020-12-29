@@ -95,7 +95,7 @@ footer {
     margin-bottom: 400px;
   }
   ul li {
-    font-size: 15px;
+    font-size: 10px;
     display: block;
   }
   .container {
@@ -105,6 +105,7 @@ footer {
   }
   footer {
     text-align: center;
-    display: block;
+    display: inline-flex;
+    justify-content: center;
   }
 }
